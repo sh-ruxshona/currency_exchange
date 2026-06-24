@@ -1,0 +1,90 @@
+2026-05-28 11:57:17,219 - CBU data extraction started
+2026-05-28 11:57:17,857 - 74 currencies received
+2026-05-28 11:58:56,161 - CBU data extraction started
+2026-05-28 11:58:56,569 - 74 currencies received
+2026-05-28 12:00:52,632 - CBU data extraction started
+2026-05-28 12:00:53,097 - 74 currencies received
+2026-05-28 12:00:53,506 - 74 records saved to raw table
+2026-05-28 12:23:17,532 - 74 records read from raw table
+2026-05-28 12:23:17,555 - Transformation completed
+2026-05-28 12:23:17,683 - 74 records saved to clean table
+2026-05-28 12:27:39,255 - ===== PIPELINE STARTED =====
+2026-05-28 12:27:39,255 - CBU data extraction started
+2026-05-28 12:27:39,784 - 74 currencies received
+2026-05-28 12:27:40,196 - 74 records saved to raw table
+2026-05-28 12:27:40,215 - 148 records read from raw table
+2026-05-28 12:27:40,229 - Transformation completed
+2026-05-28 12:27:40,420 - 0 records saved to clean table
+2026-05-28 12:27:40,420 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:30:53,916 - ===== PIPELINE STARTED =====
+2026-05-28 12:30:53,916 - CBU data extraction started
+2026-05-28 12:30:54,340 - 74 currencies received
+2026-05-28 12:30:54,744 - 74 records saved to raw table
+2026-05-28 12:30:54,758 - 222 records read from raw table
+2026-05-28 12:30:54,766 - Transformation completed
+2026-05-28 12:30:54,871 - 0 records saved to clean table
+2026-05-28 12:30:54,872 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:32:28,036 - ===== PIPELINE STARTED =====
+2026-05-28 12:32:28,037 - CBU data extraction started
+2026-05-28 12:32:28,500 - 74 currencies received
+2026-05-28 12:32:28,889 - 74 records saved to raw table
+2026-05-28 12:32:28,898 - 74 records read from raw table
+2026-05-28 12:32:28,905 - Transformation completed
+2026-05-28 12:32:28,964 - 74 records saved to clean table
+2026-05-28 12:32:28,965 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:32:57,640 - ===== PIPELINE STARTED =====
+2026-05-28 12:32:57,641 - CBU data extraction started
+2026-05-28 12:32:58,114 - 74 currencies received
+2026-05-28 12:32:58,219 - 74 records saved to raw table
+2026-05-28 12:32:58,231 - 148 records read from raw table
+2026-05-28 12:32:58,238 - Transformation completed
+2026-05-28 12:32:58,305 - 0 records saved to clean table
+2026-05-28 12:32:58,305 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:35:33,015 - ===== PIPELINE STARTED =====
+2026-05-28 12:35:33,015 - CBU data extraction started
+2026-05-28 12:35:33,505 - 74 currencies received
+2026-05-28 12:35:33,811 - 74 records saved to raw table
+2026-05-28 12:35:33,821 - 74 records read from raw table
+2026-05-28 12:35:33,828 - Transformation completed
+2026-05-28 12:35:33,907 - 74 records saved to clean table
+2026-05-28 12:35:33,907 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:35:55,731 - ===== PIPELINE STARTED =====
+2026-05-28 12:35:55,731 - CBU data extraction started
+2026-05-28 12:36:03,076 - 74 currencies received
+2026-05-28 12:36:03,227 - Today's data already exists in raw table
+2026-05-28 12:36:03,252 - 74 records read from raw table
+2026-05-28 12:36:03,262 - Transformation completed
+2026-05-28 12:36:03,429 - 0 records saved to clean table
+2026-05-28 12:36:03,429 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:52:55,165 - ===== PIPELINE STARTED =====
+2026-05-28 12:52:55,165 - CBU data extraction started
+2026-05-28 12:52:55,653 - 74 currencies received
+2026-05-28 12:52:55,812 - Today's data already exists in raw table
+2026-05-28 12:52:55,828 - 74 records read from raw table
+2026-05-28 12:52:55,838 - Transformation completed
+2026-05-28 12:52:56,024 - 0 records saved to clean table
+2026-05-28 12:52:56,024 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:53:58,138 - ===== PIPELINE STARTED =====
+2026-05-28 12:53:58,138 - CBU data extraction started
+2026-05-28 12:53:58,436 - 74 currencies received
+2026-05-28 12:53:58,520 - Today's data already exists in raw table
+2026-05-28 12:53:58,530 - 74 records read from raw table
+2026-05-28 12:53:58,535 - Transformation completed
+2026-05-28 12:53:58,669 - 0 records saved to clean table
+2026-05-28 12:53:58,669 - ===== PIPELINE COMPLETED =====
+2026-05-28 12:55:52,938 - ===== PIPELINE STARTED =====
+2026-05-28 12:55:52,939 - CBU data extraction started
+2026-05-28 12:55:53,269 - 74 currencies received
+2026-05-28 12:55:53,390 - Today's data already exists in raw table
+2026-05-28 12:55:53,400 - 74 records read from raw table
+2026-05-28 12:55:53,404 - Transformation completed
+2026-05-28 12:55:53,491 - 0 records saved to clean table
+2026-05-28 12:55:53,492 - ===== PIPELINE COMPLETED =====
+2026-05-28 13:02:58,273 - ===== PIPELINE STARTED =====
+2026-05-28 13:02:58,273 - CBU data extraction started
+2026-05-28 13:02:58,575 - 74 currencies received
+2026-05-28 13:02:58,924 - 74 records saved to raw table
+2026-05-28 13:02:58,931 - 74 records read from raw table
+2026-05-28 13:02:58,935 - Transformation completed
+2026-05-28 13:02:58,991 - 74 records saved to clean table
+2026-05-28 13:02:58,991 - ===== PIPELINE COMPLETED =====
